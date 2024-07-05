@@ -1,0 +1,6 @@
+venv
+.DS_Store
+.idea
+*.csv
+data
+chapter2/saved_weights.pt
