@@ -4,3 +4,6 @@ venv
 *.csv
 data
 chapter2/saved_weights.pt
+.ipynb_checkpoints/
+chapter6/
+config.properties
